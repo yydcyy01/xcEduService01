@@ -1,0 +1,9 @@
+麻雀虽小, 该有的都有.
+
+resources下
+    yml 配置文件中, 数据库需要更改.
+
+    logback-spring.xml 是 日志的配置文件
+
+com.xuecheng.manage_cms包
+    ManageCmsApplication   启动类. 注意扫描包.
